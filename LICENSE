@@ -1,5 +1,4 @@
-# Licensing for Open Source Desktop Injection Molding Machine
-
+# Licensing for InjectDesk
 ## Overview
 
 This project consists of two distinct components with different licenses:
@@ -53,6 +52,15 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+## Logos, Branding, and Visual Assets
+
+The logos, images, and other visual assets included in this repository are copyrighted by ded811. 
+
+### Terms of Use:
+- These assets are **NOT open source** and are provided solely for use in conjunction with this project.
+- You may not use, modify, or redistribute the logos or images without prior written permission from the copyright holder.
+- For inquiries about using these assets, contact https://github.com/ded811.
 
 
 By contributing to this repository, you agree that your contributions will be licensed under the same licenses as specified in this repository.
