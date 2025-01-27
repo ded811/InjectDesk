@@ -1,19 +1,33 @@
+# Licensing for Open Source Desktop Injection Molding Machine
+
+## Overview
+
+This project consists of two distinct components with different licenses:
+
+1. **Design files and documentation**: These include all physical designs, schematics, blueprints, and related instructions for building the injection molding machine. These are licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**, prohibiting commercial use.
+
+2. **Software**: Any software included in this project (e.g., firmware or control apps) is licensed under the **Apache License 2.0**, allowing commercial use with proper attribution.
+
+---
+
 ## LICENSE for Design Files and Documentation
 
-All design files, documentation, and non-software content in this repository are licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
+All physical design files, documentation, and non-software content in this repository are licensed under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC BY-NC-SA 4.0)**.
 
-### Key Terms:
+### Key Terms for Design Files:
 - **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
 - **NonCommercial**: You may not use the material for commercial purposes. This includes the sale of kits, parts, or pre-built versions of this machine.
 - **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 For more details, see the full license text here: [https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 
+---
+
 ## LICENSE for Software
 
-Any software included in this repository (e.g., firmware or control apps) is licensed under the **Apache License 2.0**:
+Any software included in this repository is licensed under the **Apache License 2.0**:
 
-### Key Terms:
+### Key Terms for Software:
 - **Attribution**: You must give appropriate credit by including the original copyright notice and a link to the license.
 - **Commercial Use**: Commercial use of the software is allowed as long as the terms of the license are followed.
 - **Modification and Redistribution**: You may modify and distribute the software, but you must include a copy of the Apache License and provide proper attribution.
@@ -39,3 +53,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
+By contributing to this repository, you agree that your contributions will be licensed under the same licenses as specified in this repository.
